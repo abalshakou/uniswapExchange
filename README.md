@@ -6,7 +6,7 @@ This project demonstrates UI  used React and ethers.js works with Uniswap API fo
 ![2022-07-13_18-07](https://i.imgur.com/lYvLDUT.png)
 
 ## How work with it in demo
-In demo you need to get some WETH in rinkeby network, uoy can swap it here https://app.uniswap.org/#/swap?chain=rinkeby
+In demo you need to get some WETH in rinkeby network, you can swap it here https://app.uniswap.org/#/swap?chain=rinkeby
 After it you can swap WETH to UNI
 
 ## Functionality
