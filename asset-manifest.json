@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uniswapExchange/static/css/main.104e8805.css",
+    "main.js": "/uniswapExchange/static/js/main.29ac157a.js",
+    "index.html": "/uniswapExchange/index.html",
+    "main.104e8805.css.map": "/uniswapExchange/static/css/main.104e8805.css.map",
+    "main.29ac157a.js.map": "/uniswapExchange/static/js/main.29ac157a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.104e8805.css",
+    "static/js/main.29ac157a.js"
+  ]
+}
