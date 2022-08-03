@@ -4,7 +4,6 @@ const CurrencyField = props => {
     const getPrice = (value) => {
         props.getSwapPrice(value)
     }
-}
 
 return (
     <div className="row currencyInput">
@@ -24,6 +23,11 @@ return (
         </div>
         <div className="col-md-6 tokenContainer">
             <span className="tokenName">{props.tokenName}</span>
+            <div className="balanceContainer">
+                <span className="balanceAmount">{props.balance?.toFixed(3)}</span>
+            </div>
         </div>
     </div>
-)
+)}
+
+export default CurrencyField
