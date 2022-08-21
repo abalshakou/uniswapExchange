@@ -1,7 +1,7 @@
 # uniswap Exchange DAPP  
  
 
-This project demonstrates UI  used React and ethers.js works with Uniswap API for swap tokens. This Dapp working in rinkeby test network https://skiv1986.github.io/uniswapExchange/
+This project demonstrates UI  used React and ethers.js works with Uniswap API for swap tokens. This Dapp working in rinkeby test network https://abalshakou.github.io/uniswapExchange/
 
 ![2022-07-13_18-07](https://i.imgur.com/lYvLDUT.png)
 
